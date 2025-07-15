@@ -1,1 +1,0 @@
-/home/humble/ros2_control/build/bbot_description/ament_cmake_core/bbot_descriptionConfig.cmake

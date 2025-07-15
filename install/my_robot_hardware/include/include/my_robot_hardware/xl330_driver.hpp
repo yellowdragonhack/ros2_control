@@ -1,1 +1,0 @@
-/home/humble/ros2_control/src/my_robot_hardware/include/my_robot_hardware/xl330_driver.hpp

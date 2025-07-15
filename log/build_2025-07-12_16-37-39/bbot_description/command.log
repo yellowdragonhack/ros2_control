@@ -1,4 +1,0 @@
-Invoking command in '/home/humble/ros2_control/build/bbot_description': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/humble/ros2_control/build/bbot_description -- -j16 -l16
-Invoked command in '/home/humble/ros2_control/build/bbot_description' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/humble/ros2_control/build/bbot_description -- -j16 -l16
-Invoking command in '/home/humble/ros2_control/build/bbot_description': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/humble/ros2_control/build/bbot_description
-Invoked command in '/home/humble/ros2_control/build/bbot_description' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/humble/ros2_control/build/bbot_description

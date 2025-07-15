@@ -1,1 +1,0 @@
-/home/humble/ros2_control/src/my_robot_bringup/launch/my_robot.launch.py
