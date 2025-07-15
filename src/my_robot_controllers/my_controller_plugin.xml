@@ -1,0 +1,9 @@
+<library path="my_robot_controllers">
+    <class name="my_controller/MyController"
+           type="my_controller::MyController"
+           base_class_type="controller_interface::ControllerInterface">
+        <description>
+            Forward joint commands with a complementary filter
+        </description>
+    </class>
+</library>

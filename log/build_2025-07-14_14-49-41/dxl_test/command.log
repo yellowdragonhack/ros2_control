@@ -1,0 +1,6 @@
+Invoking command in '/home/humble/ros2_control/build/dxl_test': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake /home/humble/ros2_control/src/dxl_test -DCMAKE_INSTALL_PREFIX=/home/humble/ros2_control/install/dxl_test
+Invoked command in '/home/humble/ros2_control/build/dxl_test' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake /home/humble/ros2_control/src/dxl_test -DCMAKE_INSTALL_PREFIX=/home/humble/ros2_control/install/dxl_test
+Invoking command in '/home/humble/ros2_control/build/dxl_test': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/humble/ros2_control/build/dxl_test -- -j16 -l16
+Invoked command in '/home/humble/ros2_control/build/dxl_test' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/humble/ros2_control/build/dxl_test -- -j16 -l16
+Invoking command in '/home/humble/ros2_control/build/dxl_test': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/humble/ros2_control/build/dxl_test
+Invoked command in '/home/humble/ros2_control/build/dxl_test' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/humble/ros2_control/build/dxl_test

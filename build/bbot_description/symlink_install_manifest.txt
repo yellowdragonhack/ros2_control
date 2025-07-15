@@ -1,5 +1,7 @@
+/home/humble/ros2_control/install/bbot_description/share/bbot_description/urdf/arm.xacro
 /home/humble/ros2_control/install/bbot_description/share/bbot_description/urdf/bbot.urdf.xacro
 /home/humble/ros2_control/install/bbot_description/share/bbot_description/urdf/bbot_description.xacro
+/home/humble/ros2_control/install/bbot_description/share/bbot_description/urdf/common_properties.xacro
 /home/humble/ros2_control/install/bbot_description/share/bbot_description/urdf/inertial_macros.xacro
 /home/humble/ros2_control/install/bbot_description/share/bbot_description/urdf/ros2_control.xacro
 /home/humble/ros2_control/install/bbot_description/share/bbot_description/launch/bbot.launch.py

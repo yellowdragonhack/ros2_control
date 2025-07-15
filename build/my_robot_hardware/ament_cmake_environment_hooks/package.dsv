@@ -1,0 +1,4 @@
+source;share/my_robot_hardware/local_setup.bash
+source;share/my_robot_hardware/local_setup.dsv
+source;share/my_robot_hardware/local_setup.sh
+source;share/my_robot_hardware/local_setup.zsh

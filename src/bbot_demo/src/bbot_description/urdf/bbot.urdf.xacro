@@ -3,5 +3,13 @@
 
   <xacro:include filename="bbot_description.xacro"/>
   <xacro:include filename="ros2_control.xacro"/>
+  <!-- <xacro:include filename="common_properties.xacro"/> -->
+  <xacro:include filename="arm.xacro"/>
+
+  <joint name="arm_base_joint" type="fixed">
+    <parent link="base_link"/>
+    <child link="arm_base_link"/>
+    <origin xyz="0.05 0 0.2" rpy="0 0 0"/>
+  </joint>
 
 </robot>

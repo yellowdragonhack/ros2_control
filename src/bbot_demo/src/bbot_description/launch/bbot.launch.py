@@ -6,6 +6,7 @@ from launch.conditions import IfCondition
 from launch.event_handlers import OnProcessExit
 from launch.substitutions import Command, FindExecutable, PathJoinSubstitution, LaunchConfiguration
 
+from launch_ros.parameter_descriptions import ParameterValue  # 关键：导入ParameterValue
 from launch_ros.actions import Node
 from launch_ros.substitutions import FindPackageShare
 

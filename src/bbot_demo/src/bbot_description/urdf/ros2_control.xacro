@@ -2,8 +2,12 @@
 <robot xmlns:xacro="http://www.ros.org/wiki/xacro" >
     <ros2_control name= "baseHardwareInterface" type= "system">
         <hardware>
-            <plugin>mock_components/GenericSystem</plugin>
-            <param name="calculate_dynamics" >true</param>
+            <!-- <plugin>mock_components/GenericSystem</plugin> -->
+            <!-- <param name="calculate_dynamics" >true</param> -->
+            <plugin>mobile_base_hardware/MobileBaseHardwareInterface</plugin>
+            <param name="left_motor_id">10</param>
+            <param name="right_motor_id">20</param>
+            <param name="dynamixel_port">/dev/ttyACM0</param>
         </hardware>
 
         <joint name="left_wheel_joint">
